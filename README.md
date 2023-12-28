@@ -1,6 +1,6 @@
 # SIRA Project
 
-![An abstract representation of AI and automation](/images/)
+![An abstract representation of AI and automation](images/Screenshot 2022-06-25 at 18-17-02 Sira Technologie.png)
 
 ## Introduction
 Welcome to the SIRA Project, an annual school initiative focused on developing cutting-edge, Python-based AI solutions for efficient task automation on computers. SIRA (Smart Interactive Robotic Assistant) combines the power of artificial intelligence with an easy-to-use web interface, enhancing your digital experience with smart automation.
